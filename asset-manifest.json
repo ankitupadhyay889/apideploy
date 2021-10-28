@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apideploy/static/css/main.6f167d7b.chunk.css",
+    "main.js": "/apideploy/static/js/main.ea8c006d.chunk.js",
+    "main.js.map": "/apideploy/static/js/main.ea8c006d.chunk.js.map",
+    "runtime-main.js": "/apideploy/static/js/runtime-main.7487ec68.js",
+    "runtime-main.js.map": "/apideploy/static/js/runtime-main.7487ec68.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/apideploy/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9e243f5c.chunk.js": "/apideploy/static/js/2.9e243f5c.chunk.js",
+    "static/js/2.9e243f5c.chunk.js.map": "/apideploy/static/js/2.9e243f5c.chunk.js.map",
+    "index.html": "/apideploy/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/apideploy/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6f167d7b.chunk.css.map": "/apideploy/static/css/main.6f167d7b.chunk.css.map",
+    "static/js/2.9e243f5c.chunk.js.LICENSE.txt": "/apideploy/static/js/2.9e243f5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7487ec68.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9e243f5c.chunk.js",
+    "static/css/main.6f167d7b.chunk.css",
+    "static/js/main.ea8c006d.chunk.js"
+  ]
+}
